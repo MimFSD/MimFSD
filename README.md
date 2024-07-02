@@ -4,8 +4,6 @@
 
 I am a skilled and dedicated frontend web developer with a passion for creating intuitive and engaging user interfaces. With expertise in HTML, CSS, and JavaScript, along with experience in modern frameworks such as React, Angular, and Vue.js, I bring designs to life with clean, efficient, and maintainable code. My background in web development includes a strong understanding of responsive design, cross-browser compatibility, and performance optimization. I am committed to staying updated with the latest industry trends and best practices to deliver high-quality web applications that provide exceptional user experiences. Whether working independently or as part of a team, I thrive in dynamic environments and enjoy tackling challenging projects that push the boundaries of frontend development.
 
-Skills: REACT / JS / HTML / CSS/jQuery/Java/C++/Python
-
 - 🔭 I’m currently working on International Project 
 - 🌱 I’m currently learning Next.Js 
 - 👯 I’m looking to collaborate on Express.js 
