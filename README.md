@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Meem
-#### I am Frontend web developer
+#I am Frontend web developer
 ![I am Frontend web developer](https://i.postimg.cc/9fMTd29f/f-ROn-Tend-WEB-De-VLop-MENT.jpg)
 
 I am a skilled and dedicated frontend web developer with a passion for creating intuitive and engaging user interfaces. With expertise in HTML, CSS, and JavaScript, along with experience in modern frameworks such as React, Angular, and Vue.js, I bring designs to life with clean, efficient, and maintainable code. My background in web development includes a strong understanding of responsive design, cross-browser compatibility, and performance optimization. I am committed to staying updated with the latest industry trends and best practices to deliver high-quality web applications that provide exceptional user experiences. Whether working independently or as part of a team, I thrive in dynamic environments and enjoy tackling challenging projects that push the boundaries of frontend development.
@@ -13,6 +13,25 @@ Skills: REACT / JS / HTML / CSS/jQuery/Java/C++/Python
 - 💬 Ask me about Web devlopment 
 - 📫 How to reach me: fill free to knock here 
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MimFSD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mim-islam-b97406316//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009666887837)  
 
