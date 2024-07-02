@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Meem
+### Hi there 👋, my name is Mim
 ## I am Frontend web developer
 ![I am Frontend web developer](https://i.postimg.cc/9fMTd29f/f-ROn-Tend-WEB-De-VLop-MENT.jpg)
 
