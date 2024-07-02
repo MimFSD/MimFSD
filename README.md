@@ -11,7 +11,7 @@ I am a skilled and dedicated frontend web developer with a passion for creating 
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=MimFSD&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-
+## :eyes: Current overview
 - 🔭 I’m currently working on International Project 
 - 🌱 I’m currently learning Next.Js 
 - 👯 I’m looking to collaborate on Express.js 
@@ -38,6 +38,7 @@ I am a skilled and dedicated frontend web developer with a passion for creating 
 </div>
 
 <hr/>
+## :mailbox: Reach me out
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MimFSD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mim-islam-b97406316//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009666887837)  
 
