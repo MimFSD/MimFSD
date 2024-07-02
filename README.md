@@ -4,6 +4,14 @@
 
 I am a skilled and dedicated frontend web developer with a passion for creating intuitive and engaging user interfaces. With expertise in HTML, CSS, and JavaScript, along with experience in modern frameworks such as React, Angular, and Vue.js, I bring designs to life with clean, efficient, and maintainable code. My background in web development includes a strong understanding of responsive design, cross-browser compatibility, and performance optimization. 
 
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=MimFSD&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
+
 - 🔭 I’m currently working on International Project 
 - 🌱 I’m currently learning Next.Js 
 - 👯 I’m looking to collaborate on Express.js 
