@@ -12,13 +12,11 @@ I am a skilled and dedicated frontend web developer with a passion for creating 
 </p>
 
 ## :eyes: Current overview
-- 🔭 I’m currently working on International Project 
-- 🌱 I’m currently learning Next.Js 
+- 🔭 I’m currently working on International Project
+- 🌱 I’m currently learning Next.Js
 - 👯 I’m looking to collaborate on Express.js 
-- 🤔 I’m looking for help with Anything about  Hosting 
+- 🤔 I’m looking for help with  Hosting 
 - 💬 Ask me about Web devlopment 
-- 📫 How to reach me: fill free to knock here 
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
