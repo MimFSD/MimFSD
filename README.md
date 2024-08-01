@@ -2,7 +2,7 @@
 <h3>Hi there 👋, my name is Mim</h3>
 <h3>I am Frontend web developer</h3>
 
-<a href="https://ibb.co/VDKmzXY"><img src="https://i.ibb.co/FJPVyG4/Cover-Photo-MIM-Islam-f-ROn-Tend-WEB-De-VLop-MENT.jpg" width="100%" alt="Cover-Photo-MIM-Islam-f-ROn-Tend-WEB-De-VLop-MENT" border="0" /></a>
+<a href="https://ibb.co/VDKmzXY"><img src="https://i.ibb.co/FJPVyG4/Cover-Photo-MIM-Islam-f-ROn-Tend-WEB-De-VLop-MENT.jpg"  alt="Cover-Photo-MIM-Islam-f-ROn-Tend-WEB-De-VLop-MENT" border="0" /></a>
 </div>
 I am a skilled and dedicated frontend web developer with a passion for creating intuitive and engaging user interfaces. With expertise in HTML, CSS, and JavaScript, along with experience in modern frameworks such as React, Angular, and Vue.js, I bring designs to life with clean, efficient, and maintainable code. My background in web development includes a strong understanding of responsive design, cross-browser compatibility, and performance optimization. 
 
