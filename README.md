@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mim
 ## I am Frontend web developer
-![I am Frontend web developer](https://i.postimg.cc/9fMTd29f/f-ROn-Tend-WEB-De-VLop-MENT.jpg)
+![I am Frontend web developer](https://ibb.co/VDKmzXY)
 
 I am a skilled and dedicated frontend web developer with a passion for creating intuitive and engaging user interfaces. With expertise in HTML, CSS, and JavaScript, along with experience in modern frameworks such as React, Angular, and Vue.js, I bring designs to life with clean, efficient, and maintainable code. My background in web development includes a strong understanding of responsive design, cross-browser compatibility, and performance optimization. 
 
