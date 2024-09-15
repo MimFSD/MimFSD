@@ -1,6 +1,6 @@
 <div align="center">
 <h3>Hi there 👋, my name is Mim</h3>
-<h3>I am Frontend web developer</h3>
+<h3>I am MERN Stack web developer</h3>
 
 <a href="https://ibb.co/VDKmzXY"><img src="https://i.ibb.co/FJPVyG4/Cover-Photo-MIM-Islam-f-ROn-Tend-WEB-De-VLop-MENT.jpg"  alt="Cover-Photo-MIM-Islam-f-ROn-Tend-WEB-De-VLop-MENT" border="0" /></a>
 </div>
