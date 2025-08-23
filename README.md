@@ -33,13 +33,7 @@ Always eager to grow, I continuously explore emerging technologies such as Next.
 <div align="center">
    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MimFSD&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
 </div>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
 
 <hr/>
 
