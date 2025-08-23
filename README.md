@@ -4,7 +4,9 @@
 
 <a href="https://ibb.co/VDKmzXY"><img src="https://i.ibb.co/FJPVyG4/Cover-Photo-MIM-Islam-f-ROn-Tend-WEB-De-VLop-MENT.jpg"  alt="Cover-Photo-MIM-Islam-f-ROn-Tend-WEB-De-VLop-MENT" border="0" /></a>
 </div>
-I am a skilled and dedicated frontend web developer with a passion for creating intuitive and engaging user interfaces. With expertise in HTML, CSS, and JavaScript, along with experience in modern frameworks such as React, Angular, and Vue.js, I bring designs to life with clean, efficient, and maintainable code. My background in web development includes a strong understanding of responsive design, cross-browser compatibility, and performance optimization. 
+I’m a passionate MERN Stack Developer with a strong passion for creating scalable, efficient, and user-focused web applications. Skilled in MongoDB, Express.js, React, and Node.js, I specialize in building modern full-stack solutions that deliver seamless user experiences and robust backend systems.
+
+Always eager to grow, I continuously explore emerging technologies such as Next.js, TypeScript, GraphQL, Tailwind CSS, Docker, and cloud deployment platforms to stay ahead in the fast-evolving tech landscape. My approach blends clean code practices, problem-solving, and performance optimization to craft solutions that are not only functional but also future-ready.
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -38,6 +40,7 @@ I am a skilled and dedicated frontend web developer with a passion for creating 
 </div>
 
 <hr/>
+
 ### Main Frameworks:
 
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
