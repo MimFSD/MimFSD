@@ -2,7 +2,9 @@
 <h3>Hi there 👋, my name is Mim</h3>
 <h3>I am MERN Stack web developer</h3>
 
-<a href="https://ibb.co.com/M55xBWRK"><img src="https://i.ibb.co.com/M55xBWRK/f-ROn-Tend-WEB-De-VLop-MENT.png" alt="f-ROn-Tend-WEB-De-VLop-MENT" border="0"></a>
+<div>
+  <a href="https://ibb.co.com/M55xBWRK"><img src="https://i.ibb.co.com/yBBc4G8K/f-ROn-Tend-WEB-De-VLop-MENT.png" alt="f-ROn-Tend-WEB-De-VLop-MENT" border="0"></a>
+</div>
 </div>
 I’m a passionate MERN Stack Developer with a strong passion for creating scalable, efficient, and user-focused web applications. Skilled in MongoDB, Express.js, React, and Node.js, I specialize in building modern full-stack solutions that deliver seamless user experiences and robust backend systems.
 
